@@ -1,8 +1,19 @@
 {"offers:[
  {"apk_img":"",
-  "apk_name":"",
-  "apk_msg":"",
-  "apk_coin":""
+ "apk_name":"",
+ "apk_msg":"",
+ "apk_coin":"",
+ "apk_package":""
 },
-{},
+{"apk_img":"",
+ "apk_name":"",
+ "apk_msg":"",
+ "apk_coin":"",
+ "apk_package":""},
+{"apk_img":"",
+ "apk_name":"",
+ "apk_msg":"",
+ "apk_coin":"",
+ "apk_package":""},
+
  ]}
